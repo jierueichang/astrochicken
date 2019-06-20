@@ -4,11 +4,12 @@ In his book *Disturbing the Universe* (1979), Freeman Dyson explores the concept
 The objective of this game is to colonize as many asteroids as possible by landing various types of robotic 'chickens' on them. The player controls the main *Astrochicken*, which stays in space.
 
 There are three kinds of chickens:
-| Types         | Purpose               | Key |
-| ------------- | --------------------- | --- |
-| Astrochicken  | Creates Chickens      | ~   | 
-| Colonist      | Colonizes asteroids   | `c` |
-| Architect     | Constructs Greenhouses| `a` |
+
+| Types         | Purpose                | Key | Image |
+| ------------- | ---------------------- | --- |:---:|
+| Astrochicken  | Creates Chickens       | ~   | ![](https://raw.githubusercontent.com/jierueichang/astrochicken/master/astrochicken.png)
+| Colonist      | Colonizes asteroids    | `c` | ![](https://raw.githubusercontent.com/jierueichang/astrochicken/master/colonistchicken.png)
+| Architect     | Constructs Greenhouses | `a` |![](https://raw.githubusercontent.com/jierueichang/astrochicken/master/explorerchicken.png)
 
 The movement of the Astrochicken is controlled by the arrow keys.
 
